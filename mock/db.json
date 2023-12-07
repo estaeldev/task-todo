@@ -1,0 +1,59 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Learn TypeScript",
+      "done": false
+    },
+    {
+      "id": 2,
+      "content": "Learn Java",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Learn React",
+      "done": true
+    },
+    {
+      "content": "Learn Python",
+      "done": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "content": "Learn HTML",
+      "done": true
+    },
+    {
+      "content": "Learn JavaScript",
+      "done": false,
+      "id": 6
+    },
+    {
+      "content": "Learn Docker",
+      "done": false,
+      "id": 7
+    },
+    {
+      "content": "Learn Postgresql",
+      "done": false,
+      "id": 8
+    },
+    {
+      "content": "Learn TypeScript",
+      "done": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "content": "Learn CSS",
+      "done": true
+    },
+    {
+      "content": "Learn SpringBoot",
+      "done": false,
+      "id": 11
+    }
+  ]
+}
