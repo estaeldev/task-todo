@@ -6,6 +6,8 @@
 
 ##### This project queries Fake API to display tasks
 
+#
+
 ### Technologies Used
 
 <div>
@@ -50,6 +52,6 @@ yarn mock_server
 
 ##### Access the link below to view the project
 
-[**`Task Project Demo`**]()
+[**`Task Project Demo`**](https://task-todo-e7780.web.app/)
 
 #

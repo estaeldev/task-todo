@@ -51,9 +51,9 @@
       "done": true
     },
     {
+      "id": 11,
       "content": "Learn SpringBoot",
-      "done": false,
-      "id": 11
+      "done": true
     }
   ]
 }
